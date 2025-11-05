@@ -105,7 +105,7 @@
       "settings": {
         "full_width": true,
         "stack_collections": true,
-        "collections_per_row_mobile": "1",
+        "collections_per_row_mobile": "2",
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
@@ -113,7 +113,7 @@
         "content": "",
         "link_url": "",
         "link_text": "View all",
-        "background": "",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
