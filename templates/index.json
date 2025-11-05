@@ -14,7 +14,6 @@
       "blocks": {
         "video_tYWc8D": {
           "type": "video",
-          "disabled": true,
           "settings": {
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
@@ -40,8 +39,8 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h1",
             "button_text": "",
             "button_link": "",
