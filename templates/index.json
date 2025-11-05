@@ -14,6 +14,7 @@
       "blocks": {
         "video_tYWc8D": {
           "type": "video",
+          "disabled": true,
           "settings": {
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
