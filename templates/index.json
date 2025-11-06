@@ -20,17 +20,17 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h1",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
+            "subheading": "Freedom Starts with Your Feet",
+            "title": "Live Bright. Step Free.",
+            "heading_tag": "h0",
+            "button_text": "JOIN THE MOUVEMENT",
+            "button_link": "shopify://collections/collections-clogs",
+            "text_color": "#dbbee8",
+            "button_background": "#f0c417",
+            "button_text_color": "#1a1a1a",
             "overlay_color": "#000000",
             "overlay_opacity": 30,
-            "background": "",
+            "background": "#f0f0f0",
             "background_gradient": ""
           }
         }
@@ -49,6 +49,22 @@
         "cycle_speed": 6,
         "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "scrolling_text_PPwmLK": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#fff9f5",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
       }
     },
     "collection_list_fbURyN": {
@@ -119,22 +135,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "scrolling_text_PPwmLK": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "image-link-blocks": {
@@ -768,8 +768,8 @@
   },
   "order": [
     "slideshow",
-    "collection_list_fbURyN",
     "scrolling_text_PPwmLK",
+    "collection_list_fbURyN",
     "image-link-blocks",
     "scrolling-text",
     "featured-collection",
