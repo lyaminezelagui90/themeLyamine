@@ -137,6 +137,39 @@
         "heading_gradient": ""
       }
     },
+    "video_Vf4nKK": {
+      "type": "video",
+      "blocks": {
+        "play_8g7VW7": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_wi9Bii": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_8g7VW7",
+        "heading_wi9Bii"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "md",
+        "video": "shopify://files/videos/28e1d08b-ab19-4e85-82c3-129d183a69fd.mp4",
+        "mobile_video": "shopify://files/videos/28e1d08b-ab19-4e85-82c3-129d183a69fd.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
@@ -770,6 +803,7 @@
     "slideshow",
     "scrolling_text_PPwmLK",
     "collection_list_fbURyN",
+    "video_Vf4nKK",
     "image-link-blocks",
     "scrolling-text",
     "featured-collection",
