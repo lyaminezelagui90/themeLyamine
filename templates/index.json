@@ -137,6 +137,19 @@
         "heading_gradient": ""
       }
     },
+    "custom_liquid_xYrWbt": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"height: px;\"></div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_Vf4nKK": {
       "type": "video",
       "blocks": {
@@ -803,6 +816,7 @@
     "slideshow",
     "scrolling_text_PPwmLK",
     "collection_list_fbURyN",
+    "custom_liquid_xYrWbt",
     "video_Vf4nKK",
     "image-link-blocks",
     "scrolling-text",
