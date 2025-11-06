@@ -16,6 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Graffiti_Coloree_et_Sourires_Heureux.png",
+            "mobile_image": "shopify://shop_images/Graffiti_Coloree_et_Sourires_Heureux.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -113,7 +114,7 @@
         "content": "",
         "link_url": "",
         "link_text": "View all",
-        "background": "#f0f0f0",
+        "background": "#ffe991",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -343,6 +344,7 @@
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_6_nov._2025_10_46_55.png",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -364,6 +366,7 @@
         "item-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Promenade_sous_le_soleil_vibrant.png",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -385,6 +388,7 @@
         "item-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_5_nov._2025_12_18_23.png",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -406,6 +410,7 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Noir_retro_a_la_derive.png",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
