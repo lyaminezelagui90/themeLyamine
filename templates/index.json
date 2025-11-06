@@ -137,19 +137,6 @@
         "heading_gradient": ""
       }
     },
-    "custom_liquid_xYrWbt": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"height: px;\"></div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "video_Vf4nKK": {
       "type": "video",
       "blocks": {
@@ -169,7 +156,6 @@
         "play_8g7VW7",
         "heading_wi9Bii"
       ],
-      "custom_css": [],
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -190,6 +176,7 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/BlackWhiteModernHandwrittenSquareStudioLogo_6_3576f5a3-7871-46e6-a6db-d049b5ef87d6.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -202,6 +189,7 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Designsanstitre_14_92347e6a-10c1-4e89-bda0-ed9f32ada894.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -214,6 +202,7 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Designsanstitre_1_c016fff1-a350-41ca-8feb-1d72c841f3de.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -226,6 +215,7 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Designsanstitre_19_93ebeff8-e63b-4625-90a4-26fd03e69ea8.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -238,6 +228,7 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Designsanstitre_12_1_d2bcaf25-97fb-4b5f-b74d-9b3c788f53ce.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -498,7 +489,11 @@
         "full_width": true,
         "subheading": "",
         "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "content": "<p><strong>🇺🇸 Transform your Crogs into a masterpiece.</strong><br/><br/>✨ Our WalkVibe pins bring that American pop energy — bright, playful, and unique.<br/><br/><strong>👟 Because your shoes should do more than walk… they should </strong><em><strong>talk</strong></em><strong>. 💬</strong>🌈</p>",
+        "before_image": "shopify://shop_images/ChatGPT_Image_6_nov._2025_10_50_44.png",
+        "before_image_mobile": "shopify://shop_images/ChatGPT_Image_6_nov._2025_10_50_44.png",
+        "after_image": "shopify://shop_images/ChatGPT_Image_6_nov._2025_10_53_39.png",
+        "after_image_mobile": "shopify://shop_images/ChatGPT_Image_6_nov._2025_10_53_39.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -520,7 +515,8 @@
         "16644243327ba53d2a-0": {
           "type": "quote",
           "settings": {
-            "logo_width": 100,
+            "logo": "shopify://shop_images/ChatGPT_Image_6_nov._2025_10_46_55.png",
+            "logo_width": 245,
             "author": "",
             "content": "Share info about what your customers say about your products.",
             "show_rating": false,
@@ -817,7 +813,6 @@
     "slideshow",
     "scrolling_text_PPwmLK",
     "collection_list_fbURyN",
-    "custom_liquid_xYrWbt",
     "video_Vf4nKK",
     "image-link-blocks",
     "scrolling-text",
