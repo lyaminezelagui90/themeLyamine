@@ -137,6 +137,21 @@
         "heading_gradient": ""
       }
     },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "video_Vf4nKK": {
       "type": "video",
       "blocks": {
@@ -259,21 +274,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "featured-collection": {
@@ -813,9 +813,9 @@
     "slideshow",
     "scrolling_text_PPwmLK",
     "collection_list_fbURyN",
+    "scrolling-text",
     "video_Vf4nKK",
     "image-link-blocks",
-    "scrolling-text",
     "featured-collection",
     "impact-text",
     "image-with-text-overlay",
